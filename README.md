@@ -1,4 +1,3 @@
-# MS-DOS-DBASEIII-Music-Library-Database
                   Personal Music Library Database for MS DOS Dbase III+
                    -----------------------------------------------------
 
